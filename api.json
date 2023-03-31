@@ -1,7 +1,7 @@
 {
     "clientVersionCode": 1,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "",
+    "URL_GAME_FILES" : "http://191.96.92.66/game.zip",
     "URL_GAME_FILES_UPD" : "",
     "URL_VK": "",
     "URL_DISCORD": "",
